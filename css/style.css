@@ -1,5 +1,53 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/*Alicia's Styles*/
+
+.alicia-advice a {
+	color: #E80C7A;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.alicia-advice h1 {
+	color: #8A0748;
+}
+
+.alicia-advice h4 {
+	color: #EE0748;
+	text-transform: uppercase;
+}
+
+.alicia-advice span {
+	color: #E80C7A;
+}
+
+/****Nadine's Advice Styles****/
+.nadine-advice {
+	background-color: #e699ff;
+	text-align: justify;
+	font-family: verdana;
+	font-size: 18px;
+	}
+
+.nadine-advice h1 {
+	color: #990033;
+}
+
+.nadine-advice h3 {
+	color: #54454a;
+	text-align: center;
+}
+
+#nadine {
+	border-style:dotted;
+	border-color:purple:
+}
+
+.nadinenadine {
+	text-align: center;
+}
+
+
 /*Heidi's Styles*/
 
 .heidilowry-advice a {
@@ -3488,6 +3536,8 @@ body.parismarron-advice{
 }
 /*End Sara Suzanne's Styles*/
 
+
+
 /* Genevieve's Styles */
 .genevieve-advice h1 {
 	font-family: Arial, sans-serif;
@@ -3623,3 +3673,47 @@ marquisbrown-advice {
 }
 
 /* End Jeanne's Styles */
+
+/* Joanne's styles */
+
+.joannesullivan-advice body, html {
+	background-color: #e6e6ff;
+	padding: 50px;
+}
+
+.joannesullivan-advice header a {
+	text-decoration: none;
+	font-family: 'Poppins', sans-serif;
+	font-weight: bolder;
+	color: #006600;
+
+}
+
+.joannesullivan-advice h1, h2, h4 {
+	font-family: 'Amiri', serif;
+	margin: 0 0;
+}
+
+.joannesullivan-advice h1 {
+	font-size: 60px;
+	line-height: 65px;
+}
+
+.joannesullivan-advice h2 {
+	font-size: 40px;
+	line-height: 45px;
+	color: #000000;
+}
+
+.joannesullivan-advice h4 {
+	font-size: 32px;
+	text-align: left;
+	color: #400080;
+	padding-top: 20px;
+}
+
+.joannesullivan-advice p {
+	font-family: 'Poppins', sans-serif;
+}
+
+/* end of Joanne's styles */
